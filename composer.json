@@ -8,5 +8,10 @@
             "email": "alex.lebescond@heliopsis.net"
         }
     ],
-    "require": {}
+    "require": {
+        "ezsystems/ezpublish-legacy-installer": "*"
+    },
+    "extra": {
+        "ezpublish-legacy-extension-name": "ezclasslists"
+    }
 }
