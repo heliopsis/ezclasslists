@@ -2,6 +2,7 @@
     "name": "heliopsis/ezclasslists",
     "version": "1.2",
     "description": "Adds a tab in the Administration Interface that lists objects by content class and lets you quickly edit or delete them.",
+    "type": "ezpublish-legacy-extension",
     "authors": [
         {
             "name": "Alex Le Bescond",
